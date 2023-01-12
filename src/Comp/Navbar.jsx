@@ -42,12 +42,8 @@ if(user === admin) {
 
      <div className="driver-list">
    <Link className='links' to="/login"> login</Link>
-      <Link className='links' to="/melloryoverman"> Mellory Overman</Link>
-           <Link  className='links'to="/miquelWelsh"> Miquel Welsh</Link>
-     <Link  className='links'to="/elliotFelanyo"> Felayno elliot</Link>
-       <Link  className='links'to="/mitchelraafenberg"> Mitchel Raafenberg</Link>
-       <Link  className='links'to="/valerierenfrum">valerie renfrum</Link>
-         <Link  className='links'to="/imanuelregrenso"> Imanuel Regrenso</Link>  </div>
+      <Link className='links' to="/filter"> Driver bonnen </Link>
+   </div>
 
 
      </>
